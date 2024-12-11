@@ -11,7 +11,8 @@ investmentVariation= 0.8 # positive or negative in (-1,+1)
 #################################################
 #order generation (alternatively)
 noOrderGeneration=False
-randomOrderGeneration=True
+randomOrderGeneration=False
+externalOrderGeneration=True
 
 #################################################
 #modify duration
